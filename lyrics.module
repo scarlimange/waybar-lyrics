@@ -1,0 +1,5 @@
+"custom/lyric": {
+    "exec": "~/.config/waybar/lyrics.sh|cut -d ']' -f 2 ",
+    "signal": 1,
+    "interval": 1 
+  },
